@@ -87,3 +87,20 @@ Wax 就是使用 Lua 脚本语言来编写 ios原生应用 的一个框架,它�
 **26、**[**MSWeakTimer**](https://github.com/mindsnacks/MSWeakTimer)
 
 弱引用计时器，解决在使用NSTimer时由于self引起的循环引用问题
+
+**27、**[**BreakOutToRefresh**](https://github.com/dasdom/BreakOutToRefresh)
+
+用SpriteKit实现桌面探弹球效果的下拉控件
+
+**28、**[**V5AMRFileCodec**](https://github.com/V5KF/V5AMRFileCodec)
+
+语音AMR和WAV格式互转库，支持bitcode
+
+**29、**[**Knuff**](https://github.com/KnuffApp/Knuff)
+
+调试APNs服务App
+
+**30、**[**ReSwift**](https://github.com/ReSwift/ReSwift)
+
+Swift中单向数据流模式
+
