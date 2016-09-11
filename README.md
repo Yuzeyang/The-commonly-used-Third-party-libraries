@@ -76,3 +76,14 @@ Wax 就是使用 Lua 脚本语言来编写 ios原生应用 的一个框架,它�
 **23、**[**ZipArchive**](https://github.com/mattconnolly/ZipArchive)
 可用于压缩和解压缩文件
 
+**24、**[**Mockingjay**](https://github.com/kylef/Mockingjay)
+
+模拟 NSURLSession 的请求返回数据
+
+**25、**[**OHHTTPStubs**](https://github.com/AliSoftware/OHHTTPStubs)
+
+模拟 NSURLSession 的请求返回数据
+
+**26、**[**MSWeakTimer**](https://github.com/mindsnacks/MSWeakTimer)
+
+弱引用计时器，解决在使用NSTimer时由于self引起的循环引用问题
