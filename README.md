@@ -104,3 +104,11 @@ Wax 就是使用 Lua 脚本语言来编写 ios原生应用 的一个框架,它�
 
 Swift中单向数据流模式
 
+**31、**[**BubbleTransition**](https://github.com/andreamazz/BubbleTransition)
+
+气泡效果自定义转场动画
+
+**32、**[**EarlGrey**](https://github.com/google/EarlGrey)
+
+Google推出的iOS UI测试框架
+
