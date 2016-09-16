@@ -112,3 +112,10 @@ Swift中单向数据流模式
 
 Google推出的iOS UI测试框架
 
+**33、**[**MQChatViewController**](https://github.com/Meiqia/MQChatViewController)
+
+美洽开源的聊天界面
+
+**34、**[**BabyBluetooth**](https://github.com/coolnameismy/BabyBluetooth)
+
+适用于iOS和OS的蓝牙库
