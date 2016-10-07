@@ -138,3 +138,19 @@
 **35、**[**RealReachability**](https://github.com/dustturtle/RealReachability)
 
 ##### 监测网络真实的状态库
+
+**36、**[**Charter**](https://github.com/matthewpalmer/Charter)
+
+##### 用RxSwift构建的一个阅读邮件的iOS App开源项目
+
+**37、**[**SPTDataLoader**](https://github.com/spotify/SPTDataLoader)
+
+##### 音乐服务商 Spotify 他们自己开发和正在使用的网络请求框架。相比于其他一些网络框架，SPTDataLoader 更加轻量一些。它在 `NSURLSession` 层上加入了像是请求频率和重试限制，方便的用户验证，更好的与 view 层结合等实用特性
+
+**38、**[**Tactile**](https://github.com/delba/Tactile)
+
+##### 简化手势处理的流程，框架定义了方便的语法，并使用很简单的方式来处理它们
+
+**39、**[**URLNavigator**](https://github.com/devxoul/URLNavigator)
+
+##### 使用 URL Scheme 或者 Universal Link 来进行应用间或者应用内的跳转是 iOS 开发的常见需求。相比于在 AppDelegate 中以命令式的方式进行判断，使用声明式的方法预先对 URL 和它们的行为进行定义无疑是一种更高效的开发方式。URLNavigator 就是帮助你这样简化开发流程的框架，它定义了一个 URL 的调度中心，你可以很好地对接收到的 URL 跳转进行集中处理。
