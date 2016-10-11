@@ -153,4 +153,8 @@
 
 **39、**[**URLNavigator**](https://github.com/devxoul/URLNavigator)
 
-##### 使用 URL Scheme 或者 Universal Link 来进行应用间或者应用内的跳转是 iOS 开发的常见需求。相比于在 AppDelegate 中以命令式的方式进行判断，使用声明式的方法预先对 URL 和它们的行为进行定义无疑是一种更高效的开发方式。URLNavigator 就是帮助你这样简化开发流程的框架，它定义了一个 URL 的调度中心，你可以很好地对接收到的 URL 跳转进行集中处理。
+##### 使用 URL Scheme 或者 Universal Link 来进行应用间或者应用内的跳转是 iOS 开发的常见需求。相比于在 AppDelegate 中以命令式的方式进行判断，使用声明式的方法预先对 URL 和它们的行为进行定义无疑是一种更高效的开发方式。URLNavigator 就是帮助你这样简化开发流程的框架，它定义了一个 URL 的调度中心，你可以很好地对接收到的 URL 跳转进行集中处理
+
+**40、**[**ipapy**](https://github.com/hades0918/ipapy)
+
+##### iOS项目自动打包脚本
