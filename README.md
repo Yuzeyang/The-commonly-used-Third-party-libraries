@@ -158,3 +158,11 @@
 **40、**[**ipapy**](https://github.com/hades0918/ipapy)
 
 ##### iOS项目自动打包脚本
+
+**41、**[**navigation-stack**](https://github.com/Ramotion/navigation-stack)
+
+##### 提供了一种在导航栈中快速返回的方法，使用类似系统的 App Switcher 的视图，来方便用户进行迅速切换。解决导航栈十分深的时候，想返回到最初的 View Controller 的麻烦
+
+**42、**[**Stevia**](https://github.com/s4cha/Stevia)
+
+##### 框架巧妙地使用操作符重载的方法提供了一种类型安全的可视化语言的方式实现 AutoLayout
