@@ -166,3 +166,19 @@
 **42、**[**Stevia**](https://github.com/s4cha/Stevia)
 
 ##### 框架巧妙地使用操作符重载的方法提供了一种类型安全的可视化语言的方式实现 AutoLayout
+
+**43、**[**PeekPop**](https://github.com/marmelroy/peekpop)
+
+##### 通过检测用户手势中的按压半径，在老设备上模拟 3D Touch 的行为，为这些设备也带来了类似 Peek & Pop 的体验
+
+**44、**[**Permission**](https://github.com/delba/Permission)
+
+##### 将 iOS 中所有的权限请求集中处理，并为我们提供了统一和简洁的 API
+
+**45、**[**RKTagsView**](https://github.com/kuler90/RKTagsView)
+
+##### 帮助生成类似 OS X 上 NSTokenField 那样的 tag 的视图类
+
+**46、**[**NextGrowingTextView**](https://github.com/muukii/NextGrowingTextView)
+
+##### 随着输入文本变化而自动调整高度的 text view。相比起其他类似的实现，NextGrowingTextView 是基于 iOS 7 的 TextKit 大幅修改之前的类似框架的重写。它为使用者提供了足够的委托方法和访问接口，十分灵活。
