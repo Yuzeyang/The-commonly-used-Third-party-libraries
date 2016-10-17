@@ -181,4 +181,8 @@
 
 **46、**[**NextGrowingTextView**](https://github.com/muukii/NextGrowingTextView)
 
-##### 随着输入文本变化而自动调整高度的 text view。相比起其他类似的实现，NextGrowingTextView 是基于 iOS 7 的 TextKit 大幅修改之前的类似框架的重写。它为使用者提供了足够的委托方法和访问接口，十分灵活。
+##### 随着输入文本变化而自动调整高度的 text view。相比起其他类似的实现，NextGrowingTextView 是基于 iOS 7 的 TextKit 大幅修改之前的类似框架的重写。它为使用者提供了足够的委托方法和访问接口，十分灵活
+
+**47、**[**sinopia**](https://github.com/rlidwka/sinopia)
+
+##### 私有npm服务搭建
