@@ -190,3 +190,7 @@
 **48、**[**Gifu**](https://github.com/kaishin/Gifu)
 
 ##### 一个轻量级的 GIF 动画框架，它采用了利用 CADisplayLink 绑定帧动画，并逐帧解析和加载的方式，来处理体积较大的 GIF 文件
+
+**50、**[**JLRoutes**](https://github.com/joeldev/JLRoutes)
+
+##### URL跳转协议支持的库
