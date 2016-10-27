@@ -194,3 +194,15 @@
 **50、**[**JLRoutes**](https://github.com/joeldev/JLRoutes)
 
 ##### URL跳转协议支持的库
+
+**51、**[**TinderSimpleSwipeCards**](https://github.com/cwRichardKim/TinderSimpleSwipeCards)
+
+##### 模仿Tinder的卡片滑动库
+
+**52、**[**RKSwipeBetweenViewControllers**](https://github.com/cwRichardKim/RKSwipeBetweenViewControllers)
+
+##### 自定义Page滑动列表库
+
+**53、**[**RKNotificationHub**](https://github.com/cwRichardKim/RKNotificationHub)
+
+##### 未读消息圆点提醒
