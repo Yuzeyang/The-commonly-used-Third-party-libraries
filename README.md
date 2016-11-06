@@ -206,3 +206,11 @@
 **53、**[**RKNotificationHub**](https://github.com/cwRichardKim/RKNotificationHub)
 
 ##### 未读消息圆点提醒
+
+**54、**[**MyLinearLayout**](https://github.com/youngsoft/MyLinearLayout)
+
+##### 集合了Android布局，自动布局，HTML/CSS浮动布局于一体的UI布局库
+
+**55、**[**Xtrace**](https://github.com/johnno1962/Xtrace)
+
+##### iOS测试框架
