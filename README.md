@@ -214,3 +214,11 @@
 **55、**[**Xtrace**](https://github.com/johnno1962/Xtrace)
 
 ##### iOS测试框架
+
+**56、**[**SwiftyMarkdown**](https://github.com/SimonFairbairn/SwiftyMarkdown)
+
+##### 将 markdown 转换为 NSAttributedString的框架
+
+**57、**[**KMNavigationBarTransition**](https://github.com/MoZhouqi/KMNavigationBarTransition)
+
+##### 用来统一管理导航栏转场以及当 push 或者 pop 的时候使动画效果更加顺滑的通用库
