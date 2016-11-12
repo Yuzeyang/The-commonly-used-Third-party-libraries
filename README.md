@@ -222,3 +222,7 @@
 **57、**[**KMNavigationBarTransition**](https://github.com/MoZhouqi/KMNavigationBarTransition)
 
 ##### 用来统一管理导航栏转场以及当 push 或者 pop 的时候使动画效果更加顺滑的通用库
+
+**58、**[**react-web**](https://github.com/taobaofed/react-web)
+
+##### 由淘宝FED推出的Web App框架，API与React Native兼容
