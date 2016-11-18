@@ -242,3 +242,7 @@
 **62、**[**devtool**](https://github.com/Jam3/devtool)
 
 ##### Node.js 调试工具，基于 Electron 将 Node.js 和 Chromium 的功能融合在了一起
+
+**63、**[**FBMemoryProfiler**](https://github.com/facebook/FBMemoryProfiler)
+
+##### 实时观察iOS应用在使用中内存占用的情况，可以定位到哪个对象占用了多少的内存
