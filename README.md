@@ -246,3 +246,11 @@
 **63、**[**FBMemoryProfiler**](https://github.com/facebook/FBMemoryProfiler)
 
 ##### 实时观察iOS应用在使用中内存占用的情况，可以定位到哪个对象占用了多少的内存
+
+**64、**[**EasyPeasy**](https://github.com/nakiostudio/EasyPeasy)
+
+##### 用来简化创建布局约束的框架，选择在源代码中创建视图和约束的话，这个框架可以帮助你节省很多时间
+
+**65、**[**TextAttributes**](https://github.com/delba/TextAttributes)
+
+##### TextAttributes 框架将NSAttributedString这些松耦合的接口进行了重新封装，使其类型更加安全，也使得原有的 API 更易用一些
