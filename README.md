@@ -254,3 +254,7 @@
 **65、**[**TextAttributes**](https://github.com/delba/TextAttributes)
 
 ##### TextAttributes 框架将NSAttributedString这些松耦合的接口进行了重新封装，使其类型更加安全，也使得原有的 API 更易用一些
+
+**66、**[**AEXML**](https://github.com/tadija/AEXML)
+
+##### Swift的XML解析库
