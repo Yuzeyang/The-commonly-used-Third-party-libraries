@@ -258,3 +258,15 @@
 **66、**[**AEXML**](https://github.com/tadija/AEXML)
 
 ##### Swift的XML解析库
+
+**67、**[**GPUImage2**](https://github.com/BradLarson/GPUImage2)
+
+##### Swift版的图像/视频处理框架。GPUImage 2 是使用 Swift 对原来 Objective-C 版本的 GPU Image 进行的完全重写
+
+**68、**[**swift-summary**](https://github.com/jakarmy/swift-summary)
+
+##### 这个 repo 提供了一系列 Playground 文件，集中地展示了 Swift 的基础语法特性
+
+**69、**[**NetworkEye**](https://github.com/coderyi/NetworkEye)
+
+##### NetworkEye是一个网络调试库，可以监控App内HTTP请求并显示请求相关的详细信息，方便App开发的网络调试。可以检测到包括网页，NSURLConnection,NSURLSession，AFNetworking,第三方库，第三方SDK等的HTTP请求，非常方便实用。并且可以统计App内流量
