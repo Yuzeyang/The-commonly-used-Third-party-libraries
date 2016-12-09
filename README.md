@@ -270,3 +270,15 @@
 **69、**[**NetworkEye**](https://github.com/coderyi/NetworkEye)
 
 ##### NetworkEye是一个网络调试库，可以监控App内HTTP请求并显示请求相关的详细信息，方便App开发的网络调试。可以检测到包括网页，NSURLConnection,NSURLSession，AFNetworking,第三方库，第三方SDK等的HTTP请求，非常方便实用。并且可以统计App内流量
+
+**70、**[**Clutch**](https://github.com/KJCracks/Clutch)
+
+##### ipa解密工具
+
+**71、**[**dumpdecrypted**](https://github.com/stefanesser/dumpdecrypted)
+
+##### ipa解密工具
+
+**72、**[**class-dump**](https://github.com/nygard/class-dump)
+
+##### 反编译工具
