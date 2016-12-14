@@ -282,3 +282,19 @@
 **72、**[**class-dump**](https://github.com/nygard/class-dump)
 
 ##### 反编译工具
+
+**73、**[**SwiftOCR**](https://github.com/garnele007/SwiftOCR)
+
+##### Swift版图像识别和人工智能库，比如识别验证码或者礼品卡上的数字和字母
+
+**74、**[**CoreStore**](https://github.com/JohnEstropia/CoreStore)
+
+##### Swift版基于CoreData API封装的库
+
+**75、**[**Palau**](https://github.com/symentis/Palau)
+
+##### Swift 提供的类型安全对现有的 Cocoa API 的改进是很有潜力的，而 `NSUserDefaults` 就是一个很好的改进案例。Palau 用类型安全的方式对 `NSUserDefaults` 进行了封装，同时也扩展了 `NSUserDefaults` 所能支持的类型，让我们可以用更好的方式使用 `NSUserDefaults`
+
+**76、**[**LeeGo**](https://github.com/wangshengjia/LeeGo)
+
+##### LeeGo 是一个尝试使用声明式的，可配置的和易复用的 UI 组件进行用户界面开发的方式。相对于直接创建和书写 `UIView` 的子类，LeeGo 通过创建 `Brick` 来将用户界面分解成一个一个的小块，然后再将它们进行组合并展示为完整的用户界面。相比于传统的 `UIView`，LeeGo 的 UI 创建方式是声明式的，并且能够通过 JSON 进行远程的更新，是一种十分具有吸引力的 UI 构建方式
