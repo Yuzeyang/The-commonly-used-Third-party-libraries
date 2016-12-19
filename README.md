@@ -302,3 +302,7 @@
 **77、**[**BuildTimeAnalyzer-for-Xcode**](https://github.com/RobertGummesson/BuildTimeAnalyzer-for-Xcode)
 
 ##### Swift编译时间分析工具
+
+**78、**[**GRDB.swift**](https://github.com/groue/GRDB.swift)
+
+##### 简化SQLite在Swift中使用的工具包。其中一个有趣的特性是GRDB提供协议和一个类用于像操作普通对象一个操作数据库中的列
