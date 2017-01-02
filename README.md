@@ -306,3 +306,15 @@
 **78、**[**GRDB.swift**](https://github.com/groue/GRDB.swift)
 
 ##### 简化SQLite在Swift中使用的工具包。其中一个有趣的特性是GRDB提供协议和一个类用于像操作普通对象一个操作数据库中的列
+
+**79、**[**SwiftTheme**](https://github.com/jiecao-fm/SwiftTheme)
+
+##### Swift iOS7+皮肤主题管理库
+
+**80、**[**Networking**](https://github.com/3lvis/Networking)
+
+##### 简单的对NSURLSession封装的网络库，并支持图片缓存和网络请求的mock
+
+**81、**[**PMAlertController**](https://github.com/Codeido/PMAlertController)
+
+##### 方便灵活，可自定义的弹窗控件来替换掉 Apple 原来的部件的框架，你可以方便地为 alert 添加图片，安排按钮，实现动画等
