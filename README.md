@@ -318,3 +318,15 @@
 **81、**[**PMAlertController**](https://github.com/Codeido/PMAlertController)
 
 ##### 方便灵活，可自定义的弹窗控件来替换掉 Apple 原来的部件的框架，你可以方便地为 alert 添加图片，安排按钮，实现动画等
+
+**82、**[**expanding-collection**](https://github.com/Ramotion/expanding-collection)
+
+##### 使用 Collection View 实现的卡片的展开和收起的动画效
+
+**83、**[**fantastic-ios-animation**](https://github.com/onmyway133/fantastic-ios-animation)
+
+##### 很多开源的 iOS 动画的实现进行了整理
+
+**84、**[**PrediKit**](https://github.com/KrakenDev/PrediKit)
+
+##### 这个框架对 `NSPredicate` 进行了一些封装，使开发者能够通过使用闭包和相对安全易读的语句来使用谓词。如果你在项目中使用了很多 `NSPredicate` 的话，这个框架将能显著提高你的代码质量，并让它们更加容易理解
