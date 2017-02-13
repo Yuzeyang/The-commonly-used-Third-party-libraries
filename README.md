@@ -330,3 +330,7 @@
 **84、**[**PrediKit**](https://github.com/KrakenDev/PrediKit)
 
 ##### 这个框架对 `NSPredicate` 进行了一些封装，使开发者能够通过使用闭包和相对安全易读的语句来使用谓词。如果你在项目中使用了很多 `NSPredicate` 的话，这个框架将能显著提高你的代码质量，并让它们更加容易理解
+
+**85、**[**DLIntrospection**](https://github.com/garnett/DLIntrospection)
+
+##### 这个框架可以动态查看类实现的方法，它封装了打印一个类的方法、属性、协议等常用调试方法
