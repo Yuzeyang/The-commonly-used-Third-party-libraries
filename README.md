@@ -334,3 +334,11 @@
 **85、**[**DLIntrospection**](https://github.com/garnett/DLIntrospection)
 
 ##### 这个框架可以动态查看类实现的方法，它封装了打印一个类的方法、属性、协议等常用调试方法
+
+**86、**[**GYBootingProtection**](https://github.com/liuslevis/GYBootingProtection)
+
+##### 微信读书提供的启动crash解决方案
+
+**87、**[**plcrashreporter**](https://github.com/plausiblelabs/plcrashreporter)
+
+##### crash上报工具，通过注册 Mach 异常 + UNIX信号 的 handler 达到检测的目的，对用户提供了处理异常的接口
