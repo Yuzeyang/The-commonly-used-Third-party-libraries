@@ -342,3 +342,15 @@
 **87、**[**plcrashreporter**](https://github.com/plausiblelabs/plcrashreporter)
 
 ##### crash上报工具，通过注册 Mach 异常 + UNIX信号 的 handler 达到检测的目的，对用户提供了处理异常的接口
+
+**88、**[**Scrollable-GraphView**](https://github.com/philackm/Scrollable-GraphView)
+
+##### 一个非常漂亮的带有动画的图表框架。你可以用它来制作无限滚动的条形图或者曲线图。该框架也提供了很多可自定义的要素，使用起来非常容易。这个框架很适合用来进行简单的数据展示，原型设计等
+
+**89、**[**Stellar**](https://github.com/AugustRush/Stellar)
+
+##### Stellar 是一个 Swift 的物理动画框架，它基于 Apple 的 UIDynamic，并对其进行了一些高层次的封装，是我们能以很简单的 API 来制作常见的动画效果。这个框架使用了类似 Promise 的层联方法来组织动画，并且全面适配和利用了 Swift 的语法特点
+
+**90、**[**Atlas-iOS**](https://github.com/layerhq/Atlas-iOS)
+
+##### 如果你需要在应用中制作一个和系统的信息应用类似的交流工具的聊天界面的话，Atlas 可能会是最快的选择了。你可以通过简单地实现 Atlas 的 data source 来迅速搭建一个聊天界面，也可以使用内建的众多组件来实现像是联系人查找，消息排序等功能。如果有需要，你也可以对界面元素进行自定义，以满足业务需求
