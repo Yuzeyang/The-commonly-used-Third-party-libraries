@@ -354,3 +354,7 @@
 **90、**[**Atlas-iOS**](https://github.com/layerhq/Atlas-iOS)
 
 ##### 如果你需要在应用中制作一个和系统的信息应用类似的交流工具的聊天界面的话，Atlas 可能会是最快的选择了。你可以通过简单地实现 Atlas 的 data source 来迅速搭建一个聊天界面，也可以使用内建的众多组件来实现像是联系人查找，消息排序等功能。如果有需要，你也可以对界面元素进行自定义，以满足业务需求
+
+**91、**[**AppDevKit**](https://github.com/yahoo/AppDevKit)
+
+##### Yahoo 开源了一系列 Objective-C 的辅助工具集合，其中包括了很多常见的 extension，提供了对于 Cache，AutoLayout 以及其他 100 多个方面的简便方法和现有类的加强
