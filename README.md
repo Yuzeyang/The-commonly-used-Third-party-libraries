@@ -358,3 +358,7 @@
 **91、**[**AppDevKit**](https://github.com/yahoo/AppDevKit)
 
 ##### Yahoo 开源了一系列 Objective-C 的辅助工具集合，其中包括了很多常见的 extension，提供了对于 Cache，AutoLayout 以及其他 100 多个方面的简便方法和现有类的加强
+
+**92、**[**Cartography**](https://github.com/robb/Cartography)
+
+##### 一个 Swift 的使用代码书写 AutoLayout 的框架。Cartography对苹果原来 AutoLayout API 进行了封装
