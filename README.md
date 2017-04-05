@@ -366,3 +366,7 @@
 **93、**[**ijkplayer**](https://github.com/Bilibili/ijkplayer)
 
 ##### B站开源的视频硬解码库
+
+**94、**[**BarrageRenderer**](https://github.com/unash/BarrageRenderer)
+
+##### 弹幕渲染库
