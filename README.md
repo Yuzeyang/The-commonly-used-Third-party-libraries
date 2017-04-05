@@ -362,3 +362,7 @@
 **92、**[**Cartography**](https://github.com/robb/Cartography)
 
 ##### 一个 Swift 的使用代码书写 AutoLayout 的框架。Cartography对苹果原来 AutoLayout API 进行了封装
+
+**93、**[**ijkplayer**](https://github.com/Bilibili/ijkplayer)
+
+##### B站开源的视频硬解码库
