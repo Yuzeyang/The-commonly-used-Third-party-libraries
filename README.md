@@ -370,3 +370,11 @@
 **94、**[**BarrageRenderer**](https://github.com/unash/BarrageRenderer)
 
 ##### 弹幕渲染库
+
+**95、**[**LayoutKit**](https://github.com/linkedin/LayoutKit)
+
+##### LinkedIn开源的iOS快速视图布局库
+
+**96、**[**CoreStore**](https://github.com/JohnEstropia/CoreStore)
+
+##### 对CordData做的封装，让其使用更加安全优雅，使用Swift编写。
