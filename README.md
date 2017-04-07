@@ -377,4 +377,8 @@
 
 **96、**[**CoreStore**](https://github.com/JohnEstropia/CoreStore)
 
-##### 对CordData做的封装，让其使用更加安全优雅，使用Swift编写。
+##### 对CordData做的封装，让其使用更加安全优雅，使用Swift编写
+
+**97、**[**LFLiveKit**](https://github.com/LaiFengiOS/LFLiveKit)
+
+##### 优酷土豆旗下来疯直播开源的iOS推流框架LFLiveKit
