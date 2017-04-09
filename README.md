@@ -382,3 +382,11 @@
 **97、**[**LFLiveKit**](https://github.com/LaiFengiOS/LFLiveKit)
 
 ##### 优酷土豆旗下来疯直播开源的iOS推流框架LFLiveKit
+
+**98、**[**FLAnimatedImage**](https://github.com/Flipboard/FLAnimatedImage)
+
+##### 帮你完成GIF的显示处理。解决GIF显示卡顿的情况
+
+**99、**[**FLAnimatedImage**](https://github.com/Flipboard/FLAnimatedImage)
+
+##### 用UICollectionView代替UITableView，实现header悬停功能
