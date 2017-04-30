@@ -391,10 +391,22 @@
 
 ##### 用UICollectionView代替UITableView，实现header悬停功能
 
-**100、**[Wire](https://github.com/wireapp/)
+**100、**[**Wire**](https://github.com/wireapp/)
 
 ##### 这是一整套包括iOS、Android、Web端完整App的开源项目。Wire是一个加密的IM应用，现在它把客户端代码开源出来，如果有跨平台IM开发的需求，可以参考。
 
 **101、**[**PopupDialog**](https://github.com/Orderella/PopupDialog)
 
 ##### 一个简单易用、可自定义的弹出对话框控件，使用Swift编写。
+
+**102、**[**lf.swift**](https://github.com/shogo4405/lf.swift)
+
+##### 通过 RTMP 和 HLS 实现的照相机和麦克风流库，适用于 iOS 和 macOS 。
+
+**103、**[**Zip**](https://github.com/marmelroy/Zip)
+
+##### 简单易用的解压、压缩文件的 Swift 框架。
+
+**104、**[**Translucid**](https://github.com/Ekhoo/Translucid)
+
+##### 为文字设置图片背景的 Swift 轻量框架。
