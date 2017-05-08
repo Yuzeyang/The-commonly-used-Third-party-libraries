@@ -1,21 +1,21 @@
 # 常用的第三方库
-#####**1、**[AFNetWorking](https://github.com/AFNetworking/AFNetworking) 
+**1、**[AFNetWorking](https://github.com/AFNetworking/AFNetworking) 
 
-#####AFNetworking 采用 NSURLConnection + NSOperation, 主要方便与服务端 API 进行数据交换, 操作简单, 功能强大, 现在许多人都用它取代 ASIHTTPRequest
+##### AFNetworking 采用 NSURLConnection + NSOperation, 主要方便与服务端 API 进行数据交换, 操作简单, 功能强大, 现在许多人都用它取代 ASIHTTPRequest
 
-#####2、[Aspects](https://github.com/steipete/Aspects) #####
+**2、**[Aspects](https://github.com/steipete/Aspects)
 
-#####method swizzling封装#####
+##### method swizzling封装
 
-##### 3、[Masonry](https://github.com/SnapKit/Masonry) 
+**3、**[Masonry](https://github.com/SnapKit/Masonry) 
 
 ##### UI自适应
 
-##### 4、[**ReactiveCocoa**](https://github.com/ReactiveCocoa/ReactiveCocoa) 
+**4、**[**ReactiveCocoa**](https://github.com/ReactiveCocoa/ReactiveCocoa) 
 
 ##### 用于函数式编程和响应式编程的框架
 
-##### 5、[**GLPubSub**](https://github.com/Glow-Inc/GLPubSub) 
+**5、**[**GLPubSub**](https://github.com/Glow-Inc/GLPubSub) 
 
 ##### Notification封装
 
@@ -23,7 +23,7 @@
 
 **跟踪用户操作**
 
-##### **7、**[**Apple Reachability**](http://www.jianshu.com/p/8952944f7566)
+**7、**[**Apple Reachability**](http://www.jianshu.com/p/8952944f7566)
 
 ##### 网络监测，可以参考下这篇文章[iOS网络监测如何区分2、3、4G?](http://www.jianshu.com/p/efcfa3c87306)
 
