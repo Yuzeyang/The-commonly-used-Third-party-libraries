@@ -410,3 +410,15 @@
 **104、**[**Translucid**](https://github.com/Ekhoo/Translucid)
 
 ##### 为文字设置图片背景的 Swift 轻量框架。
+
+**105、**[**SwiftyGif**](https://github.com/kirualex/SwiftyGif)
+
+##### 高性能 Swift 引擎，在不限制内存情况下，CPU 占用远低于 FLAnimatedImage，限制内存下，性能略高于 FLAnimatedImage 。基于 UIImage 和 UIImageView 扩展，灵活易用。
+
+**106、**[**TPPDF**](https://github.com/Techprimate/TPPDF)
+
+##### 一款将 NSMutableAttributedString 渲染成 PDF 的 Swift 框架，基于生成器模式。
+
+**107、**[**NMessenger**](https://github.com/eBay/NMessenger)
+
+##### 基于 AsyncDisplaykit 的轻量聊天消息组件。
