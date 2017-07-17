@@ -433,4 +433,12 @@
 
 **110、**[**echarts**](https://github.com/ecomfe/echarts)
 
-##### 百度前端图表绘制框架
+##### 百度前端图表绘制框架。
+
+**111、**[**WBWebViewConsole**](https://github.com/Naituw/WBWebViewConsole)
+
+##### 将 `UIWebView` 和 `WKWebView` log 打印到 App 中，同时直接在 Console 执行 JavaScript 代码与 Web 交互。
+
+**112、**[**PAPermissions**](https://github.com/pascalbros/PAPermissions)
+
+##### 统一系统 API 请求权限 Swift 框架。
