@@ -442,3 +442,7 @@
 **112、**[**PAPermissions**](https://github.com/pascalbros/PAPermissions)
 
 ##### 统一系统 API 请求权限 Swift 框架。
+
+**113、**[**Each**](https://github.com/dalu93/Each)
+
+##### 对 Timer 的封装，更加易用的定时器框架。
