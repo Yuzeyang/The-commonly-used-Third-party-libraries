@@ -450,3 +450,7 @@
 **114、**[**PYSearch**](https://github.com/iphone5solo/PYSearch)
 
 ##### iOS 支持不同样式的搜索控制器。
+
+**115、**[**AwaitKit**](https://github.com/yannickl/AwaitKit)
+
+##### 参考 SCMAScript 2017 实现以同步方式处理异步代码框架。
