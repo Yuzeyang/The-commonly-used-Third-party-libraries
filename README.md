@@ -454,3 +454,11 @@
 **115、**[**AwaitKit**](https://github.com/yannickl/AwaitKit)
 
 ##### 参考 SCMAScript 2017 实现以同步方式处理异步代码框架。
+
+**116、**[**SwiftDate**](https://github.com/malcommac/SwiftDate)
+
+##### 可能是在 Swift 中处理 Date 的最佳方案的框架。
+
+**117、**[**katana-swift**](https://github.com/BendingSpoons/katana-swift)
+
+##### 一款参考 Redux 实现的 iOS 开发框架。
