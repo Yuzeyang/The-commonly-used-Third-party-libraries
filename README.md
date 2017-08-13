@@ -462,3 +462,11 @@
 **117、**[**katana-swift**](https://github.com/BendingSpoons/katana-swift)
 
 ##### 一款参考 Redux 实现的 iOS 开发框架。
+
+**118、**[**R.swift**](https://github.com/mac-cain13/R.swift)
+
+##### 像 Android R 文件一样管理资源，安全地管理 UIStoryBoard UIImage 等资源。
+
+**119、**[**Snowflake**](https://github.com/onmyway133/Snowflake)
+
+##### Swift 中的 SVG 解析框架。
