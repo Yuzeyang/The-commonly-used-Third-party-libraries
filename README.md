@@ -470,3 +470,11 @@
 **119、**[**Snowflake**](https://github.com/onmyway133/Snowflake)
 
 ##### Swift 中的 SVG 解析框架。
+
+**120、**[**SwifterSwift**](https://github.com/SwifterSwift/SwifterSwift)
+
+##### 提供了非常多的便利方法的工具。
+
+**121、**[**Whisper**](https://github.com/hyperoslo/Whisper)
+
+##### 简洁的通知和消息控件。
