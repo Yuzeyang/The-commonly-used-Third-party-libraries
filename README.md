@@ -494,3 +494,19 @@
 **125、**[**ios-oss**](https://github.com/kickstarter/ios-oss)
 
 ##### Kickstarter 完整开源项目。
+
+**126、**[**EasyTipView**](https://github.com/nitishmakhija/EasyTipView)
+
+##### 友好地对用户展示操作提示库。
+
+**127、**[**NEKit**](https://github.com/zhuhaow/NEKit)
+
+##### Network Extension 封装的工具库。
+
+**128、**[**LocalizationKit_iOS**](https://github.com/willpowell8/LocalizationKit_iOS)
+
+##### iOS本地化组件，支持动态更新文案。
+
+**129、**[**Sourcery**](https://github.com/krzysztofzablocki/Sourcery)
+
+##### 使用 Swift 进行元编程工具。
