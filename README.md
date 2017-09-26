@@ -518,3 +518,7 @@
 **131、**[**bluepill**](https://github.com/linkedin/bluepill)
 
 ##### LinkedIn出品单机器运行多个模拟器的UI测试框架
+
+**132、**[**Guaka**](https://github.com/nsomar/Guaka)
+
+##### 兼容 POSIX 命令行 Swift 框架。
