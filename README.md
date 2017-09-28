@@ -554,3 +554,27 @@
 **140、**[**ESTabBarController**](https://github.com/eggswift/ESTabBarController)
 
 ##### 可高度自定义的 TabBarController 组件。
+
+**141、**[**NextLevel**](https://github.com/NextLevel/NextLevel)
+
+##### 功能丰富的相机组件。
+
+**142、**[**EasyTipView**](https://github.com/teodorpatras/EasyTipView)
+
+##### Tip 组件，可以为你的用户友好地展示使用提示。
+
+**143、**[**Typist**](https://github.com/teodorpatras/EasyTipView)
+
+##### 简单轻量的键盘管理工具。
+
+**144、**[**Motion**](https://github.com/CosmicMind/Motion)
+
+##### 无缝动画转场组件，你可以将其用在图库展示中。
+
+**145、**[**Format**](https://github.com/marmelroy/Format)
+
+##### 支持格式化数字、手机号、金额的组件。
+
+**146、**[**ObjectiveKit**](https://github.com/marmelroy/ObjectiveKit)
+
+##### 对 Swift 友好的 Objective-C Runtime API 。
