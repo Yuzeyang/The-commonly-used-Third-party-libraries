@@ -594,3 +594,15 @@
 **150、**[**spruce-ios**](https://github.com/willowtreeapps/spruce-ios)
 
 ##### 简洁轻量的动画库。
+
+**151、**[**BuildTimeAnalyzer-for-Xcode**](https://github.com/RobertGummesson/BuildTimeAnalyzer-for-Xcode)
+
+##### Swift 编译时间分析的工具，Swift开发必备。
+
+**152、**[**FengNiao**](https://github.com/onevcat/FengNiao)
+
+##### 检查项目中无用资源的工具，喵神出品。
+
+**153、**[**AutoToggleHeaderFooterView**](https://github.com/recruit-lifestyle/AutoToggleHeaderFooterView)
+
+##### 为你的滚动视图添加随手势变化的动态Header Footer UI 组件。
