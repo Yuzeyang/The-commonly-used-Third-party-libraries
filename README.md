@@ -578,3 +578,15 @@
 **146、**[**ObjectiveKit**](https://github.com/marmelroy/ObjectiveKit)
 
 ##### 对 Swift 友好的 Objective-C Runtime API 。
+
+**147、**[**GodEye**](https://github.com/zixun/GodEye)
+
+##### 全自动，零代码入侵，一行代码接入来监控应用的日志，卡顿，崩溃，网络，内存泄漏，CPU以及内存使用率，帧率等信息工具。
+
+##### **148、**[**SwipeCellKit**](https://github.com/jerkoch/SwipeCellKit)
+
+##### 提供 Cell 丰富左右滑动功能，支持自定义效果。
+
+**149、**[**panelkit**](https://github.com/louisdh/panelkit)
+
+##### 在 iOS 上提供面板功能，即支持多个窗口操作。
