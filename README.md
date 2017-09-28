@@ -590,3 +590,7 @@
 **149、**[**panelkit**](https://github.com/louisdh/panelkit)
 
 ##### 在 iOS 上提供面板功能，即支持多个窗口操作。
+
+**150、**[**spruce-ios**](https://github.com/willowtreeapps/spruce-ios)
+
+##### 简洁轻量的动画库。
