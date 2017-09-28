@@ -522,3 +522,35 @@
 **132、**[**Guaka**](https://github.com/nsomar/Guaka)
 
 ##### 兼容 POSIX 命令行 Swift 框架。
+
+**133、**[**Interstellar**](https://github.com/JensRavens/Interstellar)
+
+##### 一款简单轻量的函数响应式库，基于Swift。
+
+**134、**[**AnimatedCollectionViewLayout**](https://github.com/KelvinJin/AnimatedCollectionViewLayout)
+
+##### 支持自定义转场动画组件。
+
+**135、**[**IBAnalyzer**](https://github.com/fastred/IBAnalyzer)
+
+##### IB 分析工具，可以方便地查找到未关联的 IBOutlet 和 IBAction。
+
+**136、**[**XLActionController**](https://github.com/xmartlabs/XLActionController)
+
+##### 样式丰富的 Action Sheet 组件。
+
+**137、**[**folding-cell**](https://github.com/Ramotion/folding-cell)
+
+##### 参考 folding paper material 折叠效果的 UI 组件。
+
+**138、**[**Dotzu**](https://github.com/remirobert/Dotzu)
+
+##### iOS Debug 工具，支持 log 等级、网络请求、崩溃信息记录。
+
+**139、**[**FSPagerView**](https://github.com/WenchaoD/FSPagerView)
+
+##### 支持非常丰富设置项的 Pager View。
+
+**140、**[**ESTabBarController**](https://github.com/eggswift/ESTabBarController)
+
+##### 可高度自定义的 TabBarController 组件。
