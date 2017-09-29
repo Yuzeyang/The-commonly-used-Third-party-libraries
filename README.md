@@ -606,3 +606,11 @@
 **153、**[**AutoToggleHeaderFooterView**](https://github.com/recruit-lifestyle/AutoToggleHeaderFooterView)
 
 ##### 为你的滚动视图添加随手势变化的动态Header Footer UI 组件。
+
+**154、**[**SwiftyImage**](https://github.com/devxoul/SwiftyImage)
+
+##### 简洁易用的创建/处理图片工具。
+
+**155、**[**EmojiIntelligence**](https://github.com/Luubra/EmojiIntelligence)
+
+##### Swift 应用神经网络示例。用于演示神经网络究竟能够做什么。
