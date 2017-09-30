@@ -614,3 +614,19 @@
 **155、**[**EmojiIntelligence**](https://github.com/Luubra/EmojiIntelligence)
 
 ##### Swift 应用神经网络示例。用于演示神经网络究竟能够做什么。
+
+**156、**[**Chameleon**](https://github.com/ViccAlexander/Chameleon)
+
+##### Flat 颜色组件。非常优雅的颜色方案，共24种配色。
+
+##### **157、**[**KVOController**](https://github.com/facebook/KVOController)
+
+##### Facebook出品的更优雅处理 KVO 的解决方案。
+
+**158、**[**AudioKit**](https://github.com/AudioKit/AudioKit)
+
+##### AudioKit是一个非常老牌的音频处理库，支持iOS、macOS和tvOS平台，它的新版本采用Swift 4 编写。
+
+**159、**[**Forge**](https://github.com/hollance/Forge)
+
+##### 基于 Metal 的神经网络工具库。
