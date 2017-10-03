@@ -630,3 +630,31 @@
 **159、**[**Forge**](https://github.com/hollance/Forge)
 
 ##### 基于 Metal 的神经网络工具库。
+
+**160、**[**TLPhotoPicker**](https://github.com/tilltue/TLPhotoPicker)
+
+##### 类 Facebook 图片选择器。
+
+**161、**[**Pastel**](https://github.com/cruisediary/Pastel)
+
+##### 类 Instagram 的 Gradient 动画效果。
+
+**162、**[**FlexibleImage**](https://github.com/kawoou/FlexibleImage)
+
+##### 非常灵活强大处理图片工具
+
+**163、**[**ODUIThreadGuard**](https://github.com/olddonkey/ODUIThreadGuard)
+
+##### UI 更新线程检查工具。
+
+**164、**[**Gagat**](https://github.com/Boerworz/Gagat)
+
+##### 轻量切换主题组件，效果类似于  Castro 2。
+
+**165、**[**LGButton**](https://github.com/loregr/LGButton)
+
+##### 一款漂亮并且支持定制的 Button 组件。
+
+**166、**[**ShellKit**](https://github.com/macmade/ShellKit)
+
+##### Objective-C 执行 Shell 脚本框架。
