@@ -1,13 +1,13 @@
 # 常用的第三方库
-**1、**[AFNetWorking](https://github.com/AFNetworking/AFNetworking) 
+**1、**[**AFNetWorking**](https://github.com/AFNetworking/AFNetworking) 
 
 ##### AFNetworking 采用 NSURLConnection + NSOperation, 主要方便与服务端 API 进行数据交换, 操作简单, 功能强大, 现在许多人都用它取代 ASIHTTPRequest
 
-**2、**[Aspects](https://github.com/steipete/Aspects)
+**2、**[**Aspects**](https://github.com/steipete/Aspects)
 
 ##### method swizzling封装
 
-**3、**[Masonry](https://github.com/SnapKit/Masonry) 
+**3、**[**Masonry**](https://github.com/SnapKit/Masonry) 
 
 ##### UI自适应
 
@@ -658,3 +658,19 @@
 **166、**[**ShellKit**](https://github.com/macmade/ShellKit)
 
 ##### Objective-C 执行 Shell 脚本框架。
+
+##### **167、**[**bluejay**](https://github.com/steamclock/bluejay)
+
+##### 一款简单的蓝牙组件。
+
+**168、**[**UberSignature**](https://github.com/uber/UberSignature)
+
+##### 签名组件，用于手动点击滑动并完成签名。主要应用场景是包裹签收和文件签名。基于 UBezierPath 实现，这个签名支持间断触摸签名，重新计算了粗细。追求的是流畅度和看上去更自然的效果。
+
+**169、**[**MessageKit**](https://github.com/MessageKit/MessageKit)
+
+##### 聊天组件 JSQMessagesViewController Swift 重写版本。
+
+**170、**[**InAppNotify**](https://github.com/lucabecchetti/InAppNotify)
+
+##### App 内通知组件。
